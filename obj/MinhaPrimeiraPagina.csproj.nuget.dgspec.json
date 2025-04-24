@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\OneDrive\\Documents\\ABNER FILIPE\\MinhaPrimeiraPagina\\MinhaPrimeiraPagina.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\abner\\MinhaPrimeiraPagina\\MinhaPrimeiraPagina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\OneDrive\\Documents\\ABNER FILIPE\\MinhaPrimeiraPagina\\MinhaPrimeiraPagina.csproj": {
+    "C:\\Users\\Aluno\\Documents\\abner\\MinhaPrimeiraPagina\\MinhaPrimeiraPagina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive\\Documents\\ABNER FILIPE\\MinhaPrimeiraPagina\\MinhaPrimeiraPagina.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\abner\\MinhaPrimeiraPagina\\MinhaPrimeiraPagina.csproj",
         "projectName": "MinhaPrimeiraPagina",
-        "projectPath": "C:\\Users\\Aluno\\OneDrive\\Documents\\ABNER FILIPE\\MinhaPrimeiraPagina\\MinhaPrimeiraPagina.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\abner\\MinhaPrimeiraPagina\\MinhaPrimeiraPagina.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\OneDrive\\Documents\\ABNER FILIPE\\MinhaPrimeiraPagina\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\abner\\MinhaPrimeiraPagina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
